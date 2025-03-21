@@ -57,14 +57,11 @@ Bien sûr, voici une liste de quelques ONG basées à Yaoundé et Dschang, œuvr
 **11. Association Building Africa (ABA)**
 - **Siège :** Yaoundé
 - **Missions :** Non spécifiées
-- **Source :** citeturn0search7
 
 **12. Norwegian Refugee Council (NRC)**
 - **Siège :** Yaoundé
 - **Missions :** Assistance humanitaire aux déplacés internes et réfugiés
-- **Source :** citeturn0search8
 
 **13. Médecins Sans Frontières (MSF) - Cameroun**
 - **Siège :** Yaoundé
 - **Missions :** Protection de l’environnement, lutte contre l'hépatite, assistance internationale
-- **Source :**  
