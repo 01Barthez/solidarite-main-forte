@@ -1,6 +1,6 @@
-# solidarite-main-forte
+# Solidarite main forte
 
-Bien sûr, voici une liste de quelques ONG basées à Yaoundé et Dschang, œuvrant dans des domaines similaires à votre organisation. Les informations fournies sont basées sur les sources disponibles et peuvent être incomplètes ou nécessiter une vérification supplémentaire.
+Liste de quelques ONG basées à Yaoundé, œuvrant dans des domaines similaires à votre organisation. Les informations fournies sont basées sur les sources disponibles et peuvent être incomplètes ou nécessiter une vérification supplémentaire.
 
 **1. Services d’Appui aux Initiatives Locales de Développement (SAILD)**
 - **Siège :** Yaoundé, Quartier Elig Essono, 1087 rue Mengué Tsogo
